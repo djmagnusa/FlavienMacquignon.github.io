@@ -4,10 +4,11 @@
 
 1. Mettre en oeuvre des technologies web afin de créer et héberger mon portfolio
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![Logo Netbeans](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/208px-Apache_NetBeans_Logo.svg.png) ![HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/240px-HTML5_logo_and_wordmark.svg.png)  ![CSS](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/170px-CSS3_logo_and_wordmark.svg.png)  ![Bootstrap](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/240px-Bootstrap_logo.svg.png) ![Git](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/320px-Git-logo.svg.png) ![Gitlab](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/GitLab_logo.svg/320px-GitLab_logo.svg.png) ![github](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/240px-Octicons-mark-github.svg.png) 
+![Logo Visual Studio Code](https://images.app.goo.gl/6NqHqMNVzXJCdEJV8) ![HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/240px-HTML5_logo_and_wordmark.svg.png)  ![CSS](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/170px-CSS3_logo_and_wordmark.svg.png)  ![Bootstrap](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/240px-Bootstrap_logo.svg.png) ![Git](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/320px-Git-logo.svg.png) ![Gitlab](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/GitLab_logo.svg/320px-GitLab_logo.svg.png) ![github](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/240px-Octicons-mark-github.svg.png) 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-* Netbeans, l'environnement de développement utilisé pour ce projet
+* ~~~Netbeans, l'environnement de développement utilisé pour ce projet
+* Après réflexion, j'ai décidé de migrer vers Visual Studio Code du fait de sa plus grande simplicité en terme d'utilisation ainsi que de sa "légéreté"
 * HTML, le langage de description utilisé pour concevoir les pages web
 * CSS, le langage de style utilisé pour mettre en forme les pages web
 * Bootstrap, le framework graphique utilisé pour faciliter la création des pages (utilisation d'une base de règles CSS existantes)
