@@ -6,6 +6,20 @@
     <meta name="description" content="CV de Flavien Macquignon">
     <meta name="author" content="Flavien Macquignon">
     <title>Flavien Macquignon > Développeur Junior</title>
+    <!-- FIXME check font; it's not working -->
+    <style type="css">
+        @import url('https://fonts.googleapis.com/css2?family=Castoro&display=swap');
+        
+        @media screen
+        {
+            body, div, .top_header { margin:5; padding:5; font: 10px "Castoro", serif; color: #7b1cd4;}
+        } 
+        @media print
+        {
+            body, div { font:15; }
+            h1, .top_title {font:45px;}
+        }
+    </style>
 </head>
 <body>
     <div class="top_header">
@@ -24,11 +38,14 @@
         <div class="adress_class">
             <span class="attribute">Adresse</span> <span class="adress">39, Avenue de la Libération, 63000 Clermont-Ferrand, France</span>
         </div>
-        <div class="phone_class"> <!-- TEMP not sure about telto-->
+        <div class="phone_class"> <!-- TEMP not sure about telto -->
             <span class="attribute">Téléphone</span> <span class="mobile"><a href="tel:+3388005340">06 88 00 53 40</a></span> <span class="corded"> <a href="tel:+33443114208"> 04 43 11 42 08<a></span>
         </div>
         <div class="email_class">
             <span class="attibute">Email</span> <span class="email"> <a href="mailto:flavien-macquignon@fastmail.fr">flavien_macquignon@fastmail.fr</a> </span>
+        </div>
+        <div class="url_class">
+            <span class="attribute">Personnal Website</span> <span class="url"><a href="https://FlavienMacquignon.github.io">FlavienMacquignon.github.io</a></span>
         </div>
     </div>
 </body>
